@@ -1,7 +1,7 @@
 # AI_Maze_Game(Team 16)
 Java Project Using Object Oriented Coding
 
-How to run: For the final version of the project, compile all packages and run the class 'Display' found in the 'view' package, to run text based run the file 'Runner'. 
+How to run: For the final version of the project, compile all packages and run the class 'Display' found in the 'view' package, to run text based run the file 'Runner' 
 -- To run previous demo's, compile the code in that demo's folder then run Display for GUI and Runner for text based.
 
 Updates on the final version of the project
